@@ -1,0 +1,5 @@
+{
+    "http.proxy": "http://127.0.0.1:7899",
+    "https.proxy": "http://127.0.0.1:7899",
+    "http.proxyStrictSSL": false
+}
